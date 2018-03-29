@@ -15,6 +15,6 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
-  1. Kimchi Fried practice
-  2. Lemonade
-  3. Apple Sauce
+    1 Kimchi Fried practice       
+    2 Lemonade        
+    3 Apple Sauce
